@@ -7,6 +7,9 @@ Esta API permite a gestão de categorias e produtos. Ela fornece endpoints para 
 Base URL
 http://localhost:3000/api/v1
 
+Link do vídeo testando a API:
+https://www.loom.com/share/a86cc007c6c24bdb91203f5a023d895f?sid=12526425-4543-4452-ac35-78fbb3b18e11
+
 Endpoints
 1. Categorias
     1.1 Listar Todas as Categorias
