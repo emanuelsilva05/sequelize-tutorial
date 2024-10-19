@@ -177,7 +177,7 @@ Endpoints
             "inStock": true,
             "productImage": "https://...",
             "expiryDate": "2025-01-01T00:00:00Z",
-            "categoryId": "a52467a3-3a71-45c4-bf1c-9ace5ad3668f"
+            "categoryId": 1
             }
 
     Resposta Exemplo:
@@ -238,7 +238,7 @@ Endpoints
         "inStock": false,
         "productImage": "https://...",
         "expiryDate": "2025-01-01T00:00:00Z",
-        "categoryId": "33a9e6e0-9395-4f6c-b1cd-3cf1f87e195a"
+        "categoryId": 1
         }
 
     Resposta Exemplo:
